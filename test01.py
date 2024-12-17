@@ -1,6 +1,4 @@
-x = 218
-y = float(x)
-print(y)
-print(type(y))
+x = "218"
+y = 2
 
-
+print(int (x) * (y))
